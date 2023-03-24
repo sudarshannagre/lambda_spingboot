@@ -1,0 +1,32 @@
+{
+   "configuration" : [
+   {
+      "appId":"c6f867b9a548407cad36cd72c27agshg",
+      "appToken":"cbd0c0814abqwytqwfcf44556e7b",
+      "partnerId":"675",
+      "opcoId":"CTUS",
+      "opcoName":"US",
+      "opcoDescription":"US Opco",
+      "opcoLanguage":"en",
+      "opcoDomain":"https://abc.com",
+      "domain":"abc.com",
+      "opcoCountryName":"CT",
+      "linearAssetType":"806",
+      "networkParameter":"provider"
+   },
+   {
+      "appId":"c6f867856trytr7cad36cd7d4a272c27",
+      "appToken":"cbd0c0814ab6172678jhjghjghj4556e7b",
+      "partnerId":"775",
+      "opcoId":"INDT",
+      "opcoName":"IND",
+      "opcoDescription":"IND Opco",
+      "opcoLanguage":"en",
+      "opcoDomain":"https://pqr.com",
+      "domain":"pqr.com",
+      "opcoCountryName":"ID",
+      "linearAssetType":"676"
+   }
+   
+   ]
+}

@@ -1,0 +1,12 @@
+Spring Boot + AWS Lambda.
+
+Note : To run this project need to create jar file of this and deployed it on AWS Lambda as lambda script.
+
+How to Run : 
+1. Go to AWS Lambda
+2. Create one lambda function with any name
+3. Inside Code Source click on Upload From as .zip or .jar file
+4. Upload the project .jar file
+5. Go to Test tab - Provide Event name any, provide Event Json as 'CTUS' (Any opcoId from the file OpcoConfiguration.json)
+6. Then click on Test button
+7. Observe the output 
